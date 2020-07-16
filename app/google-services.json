@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465422922390",
+    "firebase_url": "https://findtree-3e2a6.firebaseio.com",
+    "project_id": "findtree-3e2a6",
+    "storage_bucket": "findtree-3e2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465422922390:android:6b90d911d384b9257a88b7",
+        "android_client_info": {
+          "package_name": "com.example.findtree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465422922390-sambihmuuetv4bf2kb2onfuqklgubc50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findtree",
+            "certificate_hash": "e5a703666227a69b4c4980de4408605366e5e67d"
+          }
+        },
+        {
+          "client_id": "465422922390-9qdjjc57nf5a08p3h9pnv4rh9ih6lt2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0RSeMCOS0AZU_BvQfGHQacZiOyNuNAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465422922390-9qdjjc57nf5a08p3h9pnv4rh9ih6lt2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
